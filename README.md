@@ -1,4 +1,4 @@
-# Biraz daha fonksiyoni
+# Biraz daha fonksiyon!
 
 ## Hedefler
 
@@ -21,9 +21,9 @@ Yazmanız istenen fonksiyonları farklı uzunlukta inputlarla ve uç senaryolarl
 
 ### Test & Debug
 
-1- Bölünmüş terminal simgesine tıklayarak projenizin içinde ikinci bir terminal açın
-2- İkinci terminalde `npm start` çalıştırın
-3- Testlerinizi bir terminalde çalıştıracak, diğerinde debug yapacaksınız. Kodunuz üzerinde çalışırken, ilerlemenizi kontrol etmek ve debug için `console.log`u kullanmalısınız.
+1. Bölünmüş terminal simgesine tıklayarak projenizin içinde ikinci bir terminal açın
+2. İkinci terminalde `npm start` çalıştırın
+3. Testlerinizi bir terminalde çalıştıracak, diğerinde debug yapacaksınız. Kodunuz üzerinde çalışırken, ilerlemenizi kontrol etmek ve debug için `console.log`u kullanmalısınız.
 
 ### Görev 3 - Esnek
 
