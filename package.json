@@ -19,5 +19,13 @@
     "eslint": "8.11.0",
     "jest": "27.5.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "description": "- Farklı işlemler için farklı fonksiyonlar oluşturma ve bunları birbiri ile kullanma pratiği yapacaksınız.\r - Yeni öğrendiğiniz farklı fonksiyon yazma şekillerini denemeniz ve yazım pratiği kazanmanız hedefleniyor.",
+  "bugs": {
+    "url": "https://github.com/Workintech/fsweb-s2g3-this-constructor/issues"
+  },
+  "homepage": "https://github.com/Workintech/fsweb-s2g3-this-constructor#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
