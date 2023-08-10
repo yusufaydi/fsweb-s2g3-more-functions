@@ -28,7 +28,7 @@ function dosyaAdiniBul(url) {
   let str = arr.slice(index + 1);
   return str;
 }
-console.log(dosyaAdiniBul("https://twitter.com/yu_angela"));
+console.log(dosyaAdiniBul("https://twitter.com/aydin_yusuf"));
 console.log(dosyaAdiniBul("C:/Users/johnsmith/Music/Beethoven_5.mp3"));
 console.log(dosyaAdiniBul("Beethoven_5.mp3"));
 console.log(dosyaAdiniBul(""));
